@@ -1,4 +1,5 @@
 # Instacart
-#kaggle Instacart market basket
-大家复制我的文件夹内容，自己再建一个文件夹，先推送一次原始的，之后就可以看修改历史了\<br>
-友情提醒，不要推数据···\<br>在qq群里面有的
+## kaggle Instacart market basket
+大家复制我的文件夹内容，自己再建一个文件夹，先推送一次原始的，之后就可以看修改历史了/<br>
+友情提醒，不要推数据···/<br>
+在qq群里面有的
